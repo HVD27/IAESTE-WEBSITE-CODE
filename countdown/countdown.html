@@ -1,0 +1,198 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato&family=Montserrat:wght@700;800;100&display=swap"
+        rel="stylesheet">
+    <!-- coutdown -->
+    <!-- <title>Demo Of Simple Date Time Countdown Timer Using JavaScript On TalkersCode.com</title> -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+
+
+    <!-- <link rel="stylesheet" type="text/css" href="includes/big_display_style.css">
+    <link rel="stylesheet" type="text/css" href="includes/middle_display_style.css">
+    <link rel="stylesheet" type="text/css" href="includes/small_display_style.css"> -->
+    <title>Countdown</title>
+</head>
+
+<body>
+    <div id="home" class="background">
+        <div class="container">
+            <div class="row p-5">
+                <div class="logo col-md-10">
+                    time.
+                </div>
+                <span class="icon col-md-2">
+                    <img class="iconimg" src="https://imgur.com/JkWKY4D.png" style="width: 10vw; height: 10vw;">
+                    <img class="iconimg" src="https://imgur.com/qinXJyE.png" style="width: 10vw; height: 10vw;">
+                </span>
+            </div>
+        </div>
+
+        <!-- Countdown page -->
+
+
+        <div class="cd-box container">
+            <div class="cd-prompt">
+                Enter a date
+            </div>
+            <!-- <div class="row row-input">
+                <div class="col-lg-2 col-md-4 col-xs-6">
+                    <input type="text" id="day" placeholder="Date">
+                </div>
+                <div class="col-lg-2 col-md-4 col-xs-6">
+                    <input type="text" id="month" placeholder="Month">
+                </div>
+                <div class="col-lg-2 col-md-4 col-xs-6">
+                    <input type="text" id="year" placeholder="Year">
+                </div>
+                <div class="col-lg-2 col-md-5 col-xs-6">
+                    <input type="text" id="hour" placeholder="Hour">
+                </div>
+                <div class="col-lg-2 col-md-5 col-xs-6">
+                    <input type="text" id="mins" placeholder="Min">
+                </div>
+                <div class="col-lg-12">
+                    <input type="button" value="Submit" onclick="setCountDown();">
+                </div>
+            </div> -->
+
+            <div class="row row-input">
+                <div class="row row-date">
+                    <div class="col-xs-12">
+                        <input type="text" id="day" placeholder="Date">
+                    </div>
+                    <div class="col-xs-12">
+                        <input type="text" id="month" placeholder="Month">
+                    </div>
+                    <div class="col-xs-12">
+                        <input type="text" id="year" placeholder="Year">
+                    </div>
+                </div>
+                <div class="row row-time">
+                    <div class="col-xs-6">
+                        <input type="text" id="hour" placeholder="Hour">
+                    </div>
+                    <div class="col-xs-6">
+                        <input type="text" id="mins" placeholder="Min">
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-12 btn">
+                <input type="button" value="Submit" onclick="setCountDown();">
+            </div>
+            <div id="just-border">
+                <div class="output row">
+                    <div class="col">
+                        <div id="days" class="h1"><p></p></div>
+                        <div class="output-details">days</div>
+                    </div>
+                    <div class="col">
+                        <div id="hrs" class="h1"></div>
+                        <div class="output-details">hours</div>
+                    </div>
+                    <div class="col">
+                        <div id="minutes" class="h1"></div>
+                        <div class="output-details">min</div>
+                    </div>
+                    <div class="col">
+                        <div id="sec" class="h1"></div>
+                        <div class="output-details">sec</div>
+                    </div>
+                </div>
+                <div class="row output-details">
+
+
+
+
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+        </div>
+    </div>
+
+
+    <script type="text/javascript" src="js/jquery.js"></script>
+
+    <script>
+
+
+        var timer;
+        function setCountDown() {
+            var outputDiv = document.getElementById('just-border');
+            var displaySetting = outputDiv.style.display;
+            if (displaySetting == 'block') {
+                outputDiv.style.display = 'none';
+            }
+            else {
+                outputDiv.style.display = 'block';
+
+            }
+            clearInterval(timer);
+            var timer_month = document.getElementById("month").value;
+            var timer_day = document.getElementById("day").value;
+            var timer_year = document.getElementById("year").value;
+            var timer_hour = document.getElementById("hour").value;
+            if (timer_hour == "") timer_hour = 0;
+            var timer_min = document.getElementById("mins").value;
+            if (timer_min == "") timer_min = 0;
+
+            var timer_date = timer_month + "/" + timer_day + "/" + timer_year + " " + timer_hour + ":" + timer_min;
+
+            var end = new Date(timer_date);
+            var now = new Date();
+            var second = 1000;
+            var minute = second * 60;
+            var hour = minute * 60;
+            var day = hour * 24;
+
+            function showtimer() {
+                var now = new Date();
+                var distance = end - now;
+                if (distance < 0) {
+
+                    clearInterval(timer);
+                    document.getElementById("timer_value").innerHTML = 'Reached!';
+                    return;
+                }
+                var days = Math.floor(distance / day);
+                var hours = Math.floor((distance % day) / hour);
+                var minutes = Math.floor((distance % hour) / minute);
+                var seconds = Math.floor((distance % minute) / second);
+
+                document.getElementById("days").innerHTML = days + ' : ';
+                document.getElementById("hrs").innerHTML = hours + ' : ';
+                document.getElementById("minutes").innerHTML = minutes + ' : ';
+                document.getElementById("sec").innerHTML = seconds;
+                document.getElementById("days").style.fontSize = "x-large";
+            }
+            timer = setInterval(showtimer, 1000);
+        }
+
+    </script>
+
+
+
+
+</body>
+
+</html>
+</body>
+
+</html>

@@ -1,0 +1,445 @@
+*{
+    margin: 0;
+}
+
+.background{
+    background-image: linear-gradient(#2F353A, #1C1F22);
+    height: 100vw;
+}
+
+/*.time-white{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 100px;
+    line-height: 122px;
+    letter-spacing: 0.235em;
+    top: 43px;
+    left: 112px;
+    position: absolute;
+}
+*/
+.time-grad{
+    position:absolute;
+    z-index: 1;
+    top: 43px;
+    left: 112px;
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgba(55,53,77,1));
+    background-clip: text;
+    /* background: -webkit-linear-gradient(#eee, #333); */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:900;
+    font-size: 100px;
+    line-height: 122px;
+    letter-spacing: 0.235em;
+}
+
+.menu{
+    top:43px;
+    right: 80px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.menu-small{
+    top: 200px;
+    right: 112px;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+/* .icon img{
+    width:120px;
+} */
+
+.icon-name{
+    z-index: 5;
+    font-family: Lato;
+    font-size: 18px;
+    /* line-height: 35px; */
+    color: #7F8489;
+    /* margin-right: 12px; */
+}
+/* .icon:hover{
+    cursor: pointer;
+} */
+/* .icon:active{
+    opacity:0.7;
+}
+.icon-small:hover{
+    cursor: pointer;
+}
+.icon-small:active{
+    opacity:0.7;
+}
+.icon-small img{
+width:130px; */
+
+
+
+
+/* ------------CLOCK PAGE (1)------------ */
+
+ .clk-time{
+    /* top: 350px;
+    left: 650px; */
+    /* top:270px;
+    left: 450px; */
+    /* top: 32%;
+    left: 34%; */
+    top: 30%;
+    left: 35%;
+    position: absolute;
+    
+} 
+
+.current-time{
+    font-family:sans-serif;
+    color: #FFFFFF;
+    font-size: 280px;
+    line-height: 352px;
+    text-align: center;
+    letter-spacing: 0.1;
+}
+
+/* .current-time::before{
+    content: none;
+} */
+
+.current-day{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 44px;
+    /* text-align: center; */
+    letter-spacing: 0.355em;
+    /* width: fit-content; */
+    color: rgba(255, 255, 255, 0.8);
+
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#min{
+    opacity: 45%;
+}
+
+#am-pm{
+    z-index: 5;
+    font-size: 75px;
+    line-height: 94px;
+    letter-spacing: -0.1em;
+    top: 130px;
+    left: 540px;
+    position: absolute;
+    text-shadow: 0px 5px 5px #000;
+}
+
+#day{
+    width: fit-content;
+}
+
+#date{
+    width: fit-content;
+    color: #0E9EF1;
+    
+}
+
+#month{
+    width: fit-content;
+}
+
+/* ------------COUNTDOWN PAGE (2)------------ */
+.cd-box{
+    width: fit-content;
+    /* padding-top: 15.6vw; */
+    
+}
+
+.cd-prompt{
+    font-size: 3.65vw; /* size decreases with the width but now with height, but this should not be a problem because when height decreases then width also must decrease, so the font will adjust*/
+    color: #FFFFFF;
+    background-image: linear-gradient(to right, #fff,#85888A);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:400;
+    line-height: 4.42vw;
+    letter-spacing: 0.12em;
+    width: fit-content;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 2vw;
+}
+
+input{
+    background-color: #454545;
+}
+
+.output{
+    font-size: 2vw;
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 2vw;
+    
+}
+
+#timer_value{
+    color: #FFFFFF;
+}
+
+input[type=text] {
+    background-color:#454545;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px #000;
+    padding: 0.5vw;
+}
+
+.row-input{
+    display:flex;
+    flex-direction: row;
+    margin-right: auto;
+    margin-left: auto;
+    justify-content:space-between;
+}
+
+#just-border{
+    display: none;
+    border-radius: 50px;
+    border: 3px solid #fff ;
+    /* border-image: linear-gradient(#fff, #3F494F); */
+    font-size: 7vw;
+    color: #FFFFFF;
+    margin-top:7vw;
+}
+
+.cd-text{
+    font-size: 1.664vw;
+    color: #FFFFFF;
+}
+
+.blue{
+    color: #0E9EF1;
+    
+}
+
+#days #hrs #minutes #sec{
+    font-size: 7vw;
+    font-family: 'sans-serif';
+}
+
+.output-details{
+    font-size: 1.5vw;
+    font-family: 'Montserrat';
+font-weight: 100;
+}
+
+input[type=button]{
+    /* background-color: #0E9EF1; */
+    background-image: linear-gradient(45deg,#0038A3,#11A8FD);
+    border: none;
+    border-radius: 2vw;
+    margin-top: 1vw;
+    padding: 1vw 2vw;
+    color: #fff;
+}
+
+input[type=button]:active {
+    opacity: 70%;
+}
+
+
+
+.col{
+    padding: 2vw;
+}
+
+/* --------------STOPWATCH PAGE (3)-------------- */
+
+
+ul
+{ 
+overflow-x:hidden;
+white-space:nowrap; 
+white-space: nowrap;
+width: 100%;
+} 
+
+li
+{ 
+display:inline; 
+} 
+/* .home{
+    background-image: linear-gradient(#2F353A, #1C1F22);
+    height: 100vh;
+} */
+.logo{
+    background-image: linear-gradient(to right, rgb(255, 255, 255), rgba(55,53,77,1));
+    background-clip: text;
+    /* background: -webkit-linear-gradient(#eee, #333); */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+    font-family: 'Montserrat', sans-serif;
+    font-weight:900;
+    font-size: 5vw;
+    line-height: 5rem;
+    letter-spacing: 0.235em;
+}
+
+.stopwatch{
+    color: white;
+    font-size: 5rem;
+}
+
+.stopwatch1{
+    top: 50rem;
+    
+}
+
+.icon img:hover{
+    cursor: pointer;
+}
+.icon img:active{
+    opacity:0.7;
+}
+
+/* .stopwatch{
+       padding-top: 20rem;
+} */
+.units{
+position: absolute;
+top: 55%;
+left: 52%;
+transform: translate(-50%, -50%);
+font-size: 1vw;
+
+}
+.circle { 
+    position: absolute;
+  top: 50vh;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+.stopwatch-buttons { 
+    /* padding-top: 100vh; */
+    position: absolute;
+    top: 90%;
+    left: 53%;
+    transform: translate(-50%, -50%);
+    vertical-align: bottom;
+    font-family: montserrat, sans-serif;
+    color: white;
+    letter-spacing: 1vw;
+}
+
+.time { 
+    position: absolute;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+.time h1 { 
+    font-size: 5vw;
+    color:white ;
+}
+.time h4 { 
+    font-size: 5rem;
+    color:white ;
+}
+.light { 
+    opacity: 63%;
+}
+.lighter { 
+    opacity: 45%;
+}
+.timer{
+    z-index: 1;
+}
+/* .stopwatch {
+    display: flex;
+    flex-direction: column;
+} */
+/* .controls {
+    display: flex;
+} */
+
+@media only screen and (max-width: 992px){
+    .row-input{
+        flex-direction: column;
+    }
+    .row-date{
+        margin:1vw 0;
+    }
+    .row-time{
+        margin-top:1vw;
+        margin-bottom:1vw;
+    }
+}
+
+
+
+
+@media only screen and (max-width: 767px) {
+    .html{
+        font-size: 40%;
+    }
+    .logo{
+      text-align: center;
+      font-size: 3rem;
+    }
+    .icon{
+        text-align: center;
+        justify-content: center;
+        padding-top: 2rem;
+    }
+    .units{
+        top: 53%;
+        left: 53%;
+    }
+    .time h1 { 
+        font-size: 7vw;
+    }
+    /* .iconimg{
+        width: 2rem;
+        height: 2rem;
+    } */
+  }
+@media only screen and (max-width: 576px) {
+    .html{
+        font-size: 10%;
+    }
+
+    .row-date{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .row-time{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .col{
+        margin-top:1vw;
+        margin-bottom:1vw;
+    }
+    /* .time h1 { 
+        font-size: 4rem
+    } */
+}
