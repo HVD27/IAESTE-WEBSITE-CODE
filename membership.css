@@ -2491,6 +2491,7 @@
   color: var(--white);
   font-family: var(--font-family-montserrat);
   font-size: 16.2px;
+  font-weight: 300;
   letter-spacing: -0.08px;
   line-height: 22.5px;
 }
