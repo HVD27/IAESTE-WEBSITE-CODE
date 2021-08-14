@@ -2514,10 +2514,13 @@
   border: none;
   border-radius: 5px;
   background-color: #ffffff;
+  outline: none;
 }
 
 .ipad .group-70:active {
     background-color: var(--glossy-grape);
+    /* border: white; */
+    outline: white;
   }
 
 .ipad .group-70 a{
@@ -3118,8 +3121,8 @@
   letter-spacing: 0;
   line-height: 26.9px;
   margin-left: 2.99px;
-  margin-top: 8px;
-  min-height: 19px;
+  margin-bottom: 8px;
+  /* min-height: 19px; */
   white-space: nowrap;
 }
 
@@ -3127,17 +3130,17 @@
   letter-spacing: 0;
   line-height: 13.3px;
   margin-left: 2.99px;
-  margin-top: 15px;
-  min-height: 69px;
+  /* margin-bottom: 15px; */
+  /* min-height: 69px; */
   width: 204px;
 }
 
 .ipad .timings {
   letter-spacing: 0;
-  line-height: 26.9px;
+  /* line-height: 26.9px; */
   margin-left: 2.76px;
   margin-top: 13px;
-  min-height: 19px;
+  /* min-height: 19px; */
   white-space: nowrap;
 }
 
@@ -3168,9 +3171,9 @@
   font-size: 17.7px;
   font-weight: 600;
   letter-spacing: 0;
-  line-height: 40.4px;
+  /* line-height: 40.4px; */
   margin-left: 1.19px;
-  min-height: 29px;
+  /* min-height: 29px; */
   text-align: center;
   white-space: nowrap;
   width: 166px;
@@ -3205,7 +3208,7 @@
   align-items: flex-start;
   display: flex;
   height: 84px;
-  margin-top: 21px;
+  /* margin-top: 21px; */
   min-width: 165px;
 }
 
@@ -3344,16 +3347,16 @@
 .ipad .span2-1 {
   color: var(--eerie-black-3);
   font-family: var(--font-family-nunito);
-  font-size: 11.9px;
+  font-size: 8.4px;
   font-weight: 600;
 }
 
 .ipad .rectangle-113-2 {
   border-radius: 2.99px;
-  height: 42px;
+  height: 30px;
   left: 0;
   position: absolute;
-  top: 0;
+  top: 8;
   width: 513px;
 }
 
