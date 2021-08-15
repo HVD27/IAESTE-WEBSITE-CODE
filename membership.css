@@ -3909,14 +3909,55 @@
   width: 448px;
 }
 
-.ipad .rectangle-113-3 {
+.ipad .rectangle-grey {
   background-color: var(--black-haze);
-  height: 253px;
+  height: 240px;
   left: 0;
-  mix-blend-mode: multiply;
+  /* mix-blend-mode: multiply; */
   position: absolute;
   top: 545px;
   width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.ipad .rectangle-grey i{
+  color: #000;;
+  font-size: 1rem;
+  text-align: left;
+  /* padding-right: 0.8rem; */
+
+  /* transition: transform 0.5s; */
+}
+
+.ipad .rectangle-grey .row{
+  width: 100%;
+}
+
+.ipad .rectangle-grey .row-center{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.ipad .rectangle-grey .row-center i{
+  padding-right: 1rem;
+}
+
+.ipad .rectangle-grey .col{
+  flex-grow: 0;
+}
+
+.ipad .rectangle-grey .text-contact{
+  margin-left: -2vw;
+}
+
+.ipad .col-4{
+  display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
 }
 
 .ipad .group-85 {
@@ -3983,10 +4024,10 @@
   color: var(--black);
   font-family: var(--font-family-nunito);
   font-size: var(--font-size-l);
-  left: 0;
+  /* left: 0; */
   letter-spacing: 0;
-  position: absolute;
-  top: 7px;
+  /* position: absolute; */
+  /* top: 7px; */
   width: 95px;
 }
 
@@ -4050,12 +4091,12 @@
 
 .ipad .directly-call-us {
   letter-spacing: 1.86px;
-  margin-top: 26px;
+  /* margin-top: 26px; */
   min-height: 13px;
   width: 117px;
 }
 
-.ipad .phone {
+.ipad .phone-contact {
   letter-spacing: -0.14px;
   margin-top: 4px;
   min-height: 10px;
@@ -4064,7 +4105,7 @@
 
 .ipad .leave-us-a-mail {
   letter-spacing: 1.86px;
-  margin-top: 29px;
+  /* margin-top: 29px; */
   min-height: 13px;
   width: 109px;
 }
