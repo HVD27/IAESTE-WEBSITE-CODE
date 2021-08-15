@@ -1454,6 +1454,7 @@
 .desktop .span1 {
   color: var(--white);
   font-family: var(--font-family-montserrat);
+  font-weight: 300;
   font-size: 44px;
   letter-spacing: -0.58px;
   line-height: 61.3px;
@@ -2589,6 +2590,7 @@
   align-self: flex-start;
   height: 29px;
   margin-top: -0.28px;
+  margin-left: 1vw;
   object-fit: cover;
   width: 74px;
   
@@ -3554,7 +3556,7 @@
   margin-left: 40px;
   margin-top: 4.5rem;
   min-height: 124px;
-  padding: 19.9px 25.8px;
+  padding: 20px 25.8px 10px 25.8px;
   width: 179px;
 }
 
@@ -3791,7 +3793,7 @@
   display: flex;
   height: 310px;
   justify-content: flex-end;
-  margin-right: 4.0px;
+  margin-right: -10px;
   margin-top: 18px;
   min-width: 579px;
 }
@@ -3818,7 +3820,7 @@
 .ipad .agc {
   letter-spacing: 0;
   line-height: 21.2px;
-  margin-left: 0;
+  margin-left: -0.5vw;
   min-height: 15px;
   white-space: nowrap;
 }
@@ -3849,7 +3851,7 @@
 .ipad .cobe {
   letter-spacing: 0;
   line-height: 21.2px;
-  margin-left: 0;
+  margin-left:  -0.5vw;
   margin-top: 18px;
   min-height: 15px;
   white-space: nowrap;
@@ -3881,7 +3883,7 @@
 .ipad .fcfs {
   letter-spacing: 0;
   line-height: 21.2px;
-  margin-left: 0;
+  margin-left:  -0.5vw;
   margin-top: 21px;
   min-height: 15px;
   white-space: nowrap;
@@ -3920,6 +3922,7 @@
   display: flex;
   flex-direction: row;
   justify-content: center;
+  padding: 45px;
 }
 
 .ipad .rectangle-grey i{
@@ -3957,7 +3960,7 @@
   display: flex;
     align-items: center;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 .ipad .group-85 {
@@ -5673,6 +5676,11 @@
   width: 100vw;
 }
 
+.tablet .navbar-expand-lg{
+  margin-left: 6.7vw;
+  margin-right: 6.7vw;
+}
+
 .tablet .group-84 {
   height: 727px;
   left: 0;
@@ -5728,6 +5736,7 @@
 .tablet .span1 {
   color: var(--white);
   font-family: var(--font-family-montserrat);
+  font-weight: 300;
   font-size: 27.1px;
   letter-spacing: -0.22px;
   line-height: 37.8px;
@@ -5851,7 +5860,7 @@
 
 .tablet .line-15 {
   height: 1px;
-  left: 45vw;
+  /* left: 45vw; */
   position: absolute;
   top: 170px;
   width: 164px;
