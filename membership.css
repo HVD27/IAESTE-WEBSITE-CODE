@@ -885,1538 +885,1559 @@
 }
 
 .desktop {
-    background-color: var(--white);
-    height: 8814px;
-    overflow: hidden;
-    position: relative;
-    width: 100vw;
+  background-color: var(--white);
+  height: 8814px;
+  overflow: hidden;
+  position: relative;
+  width: 100vw;
 }
 
 .desktop .overlap-group9 {
-    height: 1297px;
-    left: 330px;
-    position: absolute;
-    top: 5236px;
-    width: 93px;
+  height: 1297px;
+  left: 330px;
+  position: absolute;
+  top: 5236px;
+  width: 93px;
 }
 
 .desktop .line-21 {
-    height: 417px;
-    left: 36px;
-    position: absolute;
-    top: 0;
-    width: 13px;
+  height: 417px;
+  left: 36px;
+  position: absolute;
+  top: 0;
+  width: 13px;
 }
 
 .desktop .line-22 {
-    height: 805px;
-    left: 35px;
-    position: absolute;
-    top: 455px;
-    width: 13px;
+  height: 805px;
+  left: 35px;
+  position: absolute;
+  top: 455px;
+  width: 13px;
 }
 
 .desktop .ellipse-2 {
-    height: 90px;
-    left: 0;
-    position: absolute;
-    top: 366px;
-    width: 90px;
+  height: 90px;
+  left: 0;
+  position: absolute;
+  top: 366px;
+  width: 90px;
 }
 
 .desktop .ellipse-3 {
-    height: 90px;
-    left: 3px;
-    position: absolute;
-    top: 1207px;
-    width: 90px;
+  height: 90px;
+  left: 3px;
+  position: absolute;
+  top: 1207px;
+  width: 90px;
 }
 
 .desktop .number-1 {
-    left: 29px;
-    letter-spacing: 0;
-    line-height: 34.1px;
-    position: absolute;
-    top: 395px;
-    white-space: nowrap;
-    width: 34px;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: 34.1px;
+  position: absolute;
+  top: 395px;
+  white-space: nowrap;
+  width: 34px;
 }
 
 .desktop .number-2 {
-    left: 31px;
-    letter-spacing: 0;
-    line-height: 40.5px;
-    position: absolute;
-    top: 1231px;
-    white-space: nowrap;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: 40.5px;
+  position: absolute;
+  top: 1231px;
+  white-space: nowrap;
 }
 
 .desktop .overlap-group {
-    align-items: center;
-    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/610f8ab2d6e20479a213c9a4/releases/610f8dbf8f220af1df24259b/img/rectangle-104@1x.svg);
-    background-size: 100% 100%;
-    display: flex;
-    flex-direction: column;
-    /* left: 0; */
-    min-height: 914px;
-    padding: 150px;
-    position: absolute;
-    top: 2398px;
-    width: 100vw;
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/610f8ab2d6e20479a213c9a4/releases/610f8dbf8f220af1df24259b/img/rectangle-104@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  /* left: 0; */
+  min-height: 914px;
+  padding: 150px;
+  position: absolute;
+  top: 2398px;
+  width: 100vw;
 }
 
 .desktop .types-of-membership {
-    height: 80px;
-    /* margin-right: 12.0px; */
-    margin-top: 47px;
-    width: 869px;
+  height: 80px;
+  /* margin-right: 12.0px; */
+  margin-top: 47px;
+  width: 869px;
 }
 
 .desktop .find-out-which-re-eligible-for {
-    height: 38px;
-    /* margin-right: 54.0px; */
-    margin-top: 20px;
-    width: 1034px;
+  height: 38px;
+  /* margin-right: 54.0px; */
+  margin-top: 20px;
+  width: 1034px;
 }
 
 .desktop .overlap-group10 {
-    /* align-self: flex-end; */
-    height: 364px;
-    margin-top: 43px;
-    position: relative;
-    width: 1576px;
+  /* align-self: flex-end; */
+  height: 364px;
+  margin-top: 43px;
+  position: relative;
+  width: 1576px;
 }
 
 .desktop .rectangle-7 {
-    height: 364px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 798px;
+  height: 364px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 798px;
 }
 
 .desktop .rectangle-8 {
-    height: 364px;
-    left: 778px;
-    position: absolute;
-    top: 0;
-    width: 798px;
+  height: 364px;
+  left: 778px;
+  position: absolute;
+  top: 0;
+  width: 798px;
 }
 
 .desktop .instation {
-    left: 246px;
-    letter-spacing: 0;
-    line-height: 38px;
-    position: absolute;
-    text-align: center;
-    top: 87px;
-    white-space: nowrap;
+  left: 246px;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  text-align: center;
+  top: 87px;
+  white-space: nowrap;
 }
 
 .desktop .outstation {
-    left: 997px;
-    letter-spacing: 0;
-    line-height: 38px;
-    position: absolute;
-    text-align: center;
-    top: 87px;
-    white-space: nowrap;
+  left: 997px;
+  letter-spacing: 0;
+  line-height: 38px;
+  position: absolute;
+  text-align: center;
+  top: 87px;
+  white-space: nowrap;
 }
 
 .desktop .text-50 {
-    left: 119px;
-    letter-spacing: 0;
-    line-height: 43px;
-    position: absolute;
-    text-align: center;
-    top: 164px;
-    width: 540px;
+  left: 119px;
+  letter-spacing: 0;
+  line-height: 43px;
+  position: absolute;
+  text-align: center;
+  top: 164px;
+  width: 540px;
 }
 
 .desktop .text-51 {
-    left: 896px;
-    letter-spacing: 0;
-    line-height: 43px;
-    position: absolute;
-    text-align: center;
-    top: 164px;
-    width: 536px;
+  left: 896px;
+  letter-spacing: 0;
+  line-height: 43px;
+  position: absolute;
+  text-align: center;
+  top: 164px;
+  width: 536px;
 }
 
 .desktop .overlap-group3 {
-    height: 8846px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100vw;
+  height: 8846px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100vw;
 }
 
+
 .desktop .rectangle-105 {
-    height: 1407px;
-    left: 0;
-    position: absolute;
-    top: 6836px;
-    width: 1920px;
+  height: auto;
+  left: 0;
+  position: absolute;
+  top: 6836px;
+  width: 100vw;
 }
 
 .desktop .rectangle-106 {
-    height: 828px;
-    left: 244px;
-    position: absolute;
-    top: 7267px;
-    width: 1451px;
+  height: 828px;
+  /* left: 244px; */
+  position: absolute;
+  top: 7287px;
+  width: 100vw;
 }
 
 .desktop .types-of-offers {
-    color: var(--white);
-    font-family: var(--font-family-montserrat);
-    font-size: 80px;
-    font-weight: 700;
-    left: 644px;
-    letter-spacing: 0;
-    line-height: 34.1px;
-    position: absolute;
-    text-align: center;
-    top: 7000px;
-    white-space: nowrap;
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: 80px;
+  font-weight: 700;
+  /* margin-left: 644px; */
+  letter-spacing: 0;
+  line-height: 34.1px;
+  position: absolute;
+  text-align: center;
+  top: 7020px;
+  white-space: nowrap;
+  width: 100vw;
 }
 
 .desktop .group-43 {
-    align-items: flex-start;
-    display: flex;
-    flex-direction: column;
-    left: 415px;
-    position: absolute;
-    top: 7373px;
-    width: 1103px;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  left: 22vw;
+  position: absolute;
+  top: 7393px;
+  width: 100vw;
 }
 
 .desktop .agc {
-    letter-spacing: 0;
-    line-height: 35.5px;
-    margin-left: 1.04px;
-    min-height: 36px;
-    text-align: center;
-    white-space: nowrap;
-    width: 96px;
+  letter-spacing: 0;
+  line-height: 35.5px;
+  margin-left: -0.5vw;
+  min-height: 36px;
+  text-align: center;
+  white-space: nowrap;
+  width: 96px;
 }
 
 .desktop .flex-row {
-    align-items: flex-end;
-    display: flex;
-    margin-left: -4.02px;
-    margin-top: 15px;
-    min-width: 1097px;
+  align-items: flex-end;
+  display: flex;
+  margin-left: -4.02px;
+  margin-top: 15px;
+  min-width: 1097px;
 }
 
 .desktop .line-25 {
-    height: 110px;
-    width: 13px;
+  height: 110px;
+  width: 13px;
 }
 
 .desktop .text-53 {
-    letter-spacing: 0;
-    line-height: 33.6px;
-    margin-bottom: 0.02px;
-    margin-left: 28px;
-    min-height: 109px;
-    width: 1055px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  margin-bottom: 0.02px;
+  margin-left: 28px;
+  min-height: 109px;
+  width: 1055px;
 }
 
 .desktop .cobe {
-    letter-spacing: 0;
-    line-height: 35.5px;
-    margin-left: 2.08px;
-    margin-top: 52px;
-    min-height: 36px;
-    text-align: center;
-    white-space: nowrap;
-    width: 127px;
+  letter-spacing: 0;
+  line-height: 35.5px;
+  margin-left: -0.5vw;
+  margin-top: 52px;
+  min-height: 36px;
+  text-align: center;
+  white-space: nowrap;
+  width: 127px;
 }
 
 .desktop .flex-row-1 {
-    align-items: flex-start;
-    display: flex;
-    height: 110px;
-    margin-left: -4.02px;
-    margin-top: 15px;
-    min-width: 1092px;
+  align-items: flex-start;
+  display: flex;
+  height: 110px;
+  margin-left: -4.02px;
+  margin-top: 15px;
+  min-width: 1092px;
 }
 
 .desktop .line-24 {
-    height: 109px;
-    width: 13px;
+  height: 109px;
+  width: 13px;
 }
 
 .desktop .text-52 {
-    align-self: flex-end;
-    letter-spacing: 0;
-    line-height: 33.6px;
-    margin-left: 29px;
-    min-height: 109px;
-    width: 1050px;
+  align-self: flex-start;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  margin-left: 29px;
+  min-height: 109px;
+  width: 1050px;
 }
 
 .desktop .fcfs {
-    letter-spacing: 0;
-    line-height: 35.5px;
-    margin-top: 51px;
-    min-height: 36px;
-    text-align: center;
-    white-space: nowrap;
-    width: 112px;
+  letter-spacing: 0;
+  line-height: 35.5px;
+  margin-top: 51px;
+  min-height: 36px;
+  text-align: center;
+  white-space: nowrap;
+  width: 112px;
+  margin-left: -0.5vw;
+
 }
 
 .desktop .flex-row-2 {
-    align-items: center;
-    display: flex;
-    margin-left: -4.02px;
-    margin-top: 14px;
-    min-width: 1092px;
+  align-items: center;
+  display: flex;
+  margin-left: -4.02px;
+  margin-top: 14px;
+  min-width: 1092px;
 }
 
 .desktop .line-11 {
-    height: 92px;
-    width: 13px;
+  height: 92px;
+  width: 13px;
 }
 
 .desktop .text-54 {
-    letter-spacing: 0;
-    line-height: 33.6px;
-    margin-left: 27px;
-    margin-top: 1.44px;
-    min-height: 66px;
-    width: 1052px;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  margin-left: 27px;
+  margin-top: 1.44px;
+  min-height: 66px;
+  width: 1052px;
 }
 
 .desktop .text-55 {
-    color: var(--white);
-    font-family: var(--font-family-nunito);
-    font-size: 24.3px;
-    font-weight: 600;
-    left: 458px;
-    letter-spacing: 0;
-    line-height: 32.3px;
-    position: absolute;
-    text-align: center;
-    top: 7117px;
-    width: 1022px;
+  color: var(--white);
+  font-family: var(--font-family-nunito);
+  font-size: 24.3px;
+  font-weight: 600;
+  /* left: 458px; */
+  letter-spacing: 0;
+  line-height: 32.3px;
+  position: absolute;
+  text-align: center;
+  top: 7137px;
+  width: 100vw;
 }
 
 .desktop .rectangle-110 {
-    background-color: var(--black-haze);
-    height: 604px;
-    left: 0;
-    mix-blend-mode: multiply;
-    position: absolute;
-    top: 8242px;
-    width: 1920px;
+  background-color: var(--black-haze);
+  height: 604px;
+  left: 0;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 8242px;
+  width: 1920px;
 }
 
 .desktop .group-19 {
-    align-items: flex-start;
-    display: flex;
-    height: 407px;
-    left: 283px;
-    position: absolute;
-    top: 8340px;
+  align-items: flex-start;
+  display: flex;
+  height: 407px;
+  left: 283px;
+  position: absolute;
+  top: 8340px;
 }
 
 .desktop .overlap-group10-1 {
-    height: 407px;
-    position: relative;
-    width: 1334px;
+  height: 407px;
+  position: relative;
+  width: 1334px;
 }
 
 .desktop .group-16 {
-    align-items: flex-start;
-    display: flex;
-    height: 407px;
-    left: 0;
-    position: absolute;
-    top: 0;
+  align-items: flex-start;
+  display: flex;
+  height: 407px;
+  left: 0;
+  position: absolute;
+  top: 0;
 }
 
 .desktop .flex-col {
-    align-items: flex-start;
-    display: flex;
-    flex-direction: column;
-    margin-top: -0.19px;
-    min-height: 383px;
-    width: 503px;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: -0.19px;
+  min-height: 383px;
+  width: 503px;
 }
 
 .desktop .x1200px-iaest-epng2-1 {
-    height: 174px;
-    object-fit: cover;
-    width: 454px;
+  height: 174px;
+  object-fit: cover;
+  width: 454px;
 }
 
 .desktop .flex-row-3 {
-    align-items: flex-end;
-    align-self: flex-end;
-    display: flex;
-    margin-top: 154px;
-    min-width: 470px;
+  align-items: flex-end;
+  align-self: flex-end;
+  display: flex;
+  margin-top: 154px;
+  min-width: 470px;
 }
 
 .desktop .copyright-2021 {
-    color: var(--black);
-    font-family: var(--font-family-nunito);
-    font-size: 27.1px;
-    letter-spacing: 0;
-    margin-bottom: 0.12px;
-    min-height: 37px;
-    width: 221px;
+  color: var(--black);
+  font-family: var(--font-family-nunito);
+  font-size: 27.1px;
+  letter-spacing: 0;
+  margin-bottom: 0.12px;
+  min-height: 37px;
+  width: 221px;
 }
 
 .desktop .facebook-logo-1 {
-    height: 54px;
-    margin-left: 34px;
-    object-fit: cover;
-    width: 55px;
+  height: 54px;
+  margin-left: 34px;
+  object-fit: cover;
+  width: 55px;
 }
 
 .desktop .flex-row-item {
-    height: 54px;
-    margin-left: 24px;
-    object-fit: cover;
-    width: 55px;
+  height: 54px;
+  margin-left: 24px;
+  object-fit: cover;
+  width: 55px;
 }
 
 .desktop .flex-col-1 {
-    align-items: flex-start;
-    align-self: flex-end;
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 0;
-    margin-left: 436px;
-    min-height: 391px;
-    width: 383px;
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 0;
+  margin-left: 436px;
+  min-height: 391px;
+  width: 383px;
 }
 
 .desktop .come-to-the-office {
-    letter-spacing: 4.52px;
-    min-height: 31px;
-    width: 314px;
+  letter-spacing: 4.52px;
+  min-height: 31px;
+  width: 314px;
 }
 
 .desktop .text-56 {
-    letter-spacing: 0;
-    line-height: 28.0px;
-    margin-top: 19px;
-    min-height: 84px;
-    width: 383px;
+  letter-spacing: 0;
+  line-height: 28.0px;
+  margin-top: 19px;
+  min-height: 84px;
+  width: 383px;
 }
 
 .desktop .directly-call-us {
-    letter-spacing: 4.52px;
-    margin-top: 55px;
-    min-height: 31px;
-    width: 273px;
+  letter-spacing: 4.52px;
+  margin-top: 55px;
+  min-height: 31px;
+  width: 273px;
 }
 
 .desktop .phone {
-    letter-spacing: -0.36px;
-    margin-top: 16px;
-    min-height: 24px;
-    width: 161px;
+  letter-spacing: -0.36px;
+  margin-top: 16px;
+  min-height: 24px;
+  width: 161px;
 }
 
 .desktop .leave-us-a-mail {
-    letter-spacing: 4.52px;
-    margin-top: 64px;
-    min-height: 31px;
-    width: 254px;
+  letter-spacing: 4.52px;
+  margin-top: 64px;
+  min-height: 31px;
+  width: 254px;
 }
 
 .desktop .queriesiaestein {
-    letter-spacing: -0.36px;
-    margin-top: 9px;
-    min-height: 24px;
-    width: 139px;
+  letter-spacing: -0.36px;
+  margin-top: 9px;
+  min-height: 24px;
+  width: 139px;
 }
 
 .desktop .image-3 {
-    height: 28px;
-    left: 886px;
-    object-fit: cover;
-    position: absolute;
-    top: 16px;
-    width: 28px;
+  height: 28px;
+  left: 886px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 28px;
 }
 
 .desktop .image-1 {
-    height: 28px;
-    left: 886px;
-    object-fit: cover;
-    position: absolute;
-    top: 343px;
-    width: 28px;
+  height: 28px;
+  left: 886px;
+  object-fit: cover;
+  position: absolute;
+  top: 343px;
+  width: 28px;
 }
 
 .desktop .image-2 {
-    height: 28px;
-    left: 886px;
-    object-fit: cover;
-    position: absolute;
-    top: 208px;
-    width: 28px;
+  height: 28px;
+  left: 886px;
+  object-fit: cover;
+  position: absolute;
+  top: 208px;
+  width: 28px;
 }
 
 .desktop .overlap-group7 {
-    height: 1096px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 100vw;
+  height: 1096px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100vw;
 }
 
 .desktop .rectangle-37 {
-    /* background-color: var(--mist-gray); */
-    height: 1080px;
-    left: 0;
-    position: absolute;
-    /* top: 16px; */
-    width: 100vw;
+  /* background-color: var(--mist-gray); */
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  /* top: 16px; */
+  width: 100vw;
 }
 
 .desktop .mask-group {
-    background-image: url(https://i.imgur.com/XEVoR54.png);
-    /* background-position: 100% 100%; */
-    background-size: cover;
-    height: 1080px;
-    left: 0;
-    position: absolute;
-    /* top: 4px; */
-    width: 100vw;
+  background-image: url(https://i.imgur.com/XEVoR54.png);
+  /* background-position: 100% 100%; */
+  background-size: cover;
+  height: 1080px;
+  left: 0;
+  position: absolute;
+  /* top: 4px; */
+  width: 100vw;
 }
 
 .desktop .rectangle-87 {
-    height: 1084px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 1913px;
+  height: 1084px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1913px;
 }
 
 .desktop .rectangle-34 {
-    height: 583px;
-    left: 0;
-    position: absolute;
-    top: 16px;
-    width: 1913px;
+  height: 583px;
+  left: 0;
+  position: absolute;
+  top: 16px;
+  width: 1913px;
 }
 
 .desktop .line-9 {
-    height: 3px;
-    left: 1437px;
-    position: absolute;
-    top: 130px;
-    width: 86px;
+  height: 3px;
+  left: 1437px;
+  position: absolute;
+  top: 130px;
+  width: 86px;
 }
 
 .desktop .rectangle-24 {
-    /* -webkit-backdrop-filter: blur(80px) brightness(100%);
+  /* -webkit-backdrop-filter: blur(80px) brightness(100%);
   backdrop-filter: blur(80px) brightness(100%);
   background-color: var(--white-2); */
-    border-radius: 15px;
-    height: 740px;
-    left: 140px;
-    position: absolute;
-    top: 189px;
-    width: 1633px;
+  border-radius: 15px;
+  height: 740px;
+  left: 140px;
+  position: absolute;
+  top: 189px;
+  width: 1633px;
 }
 
 .desktop .group-45 {
-    align-items: center;
-    display: flex;
-    flex-direction: column;
-    left: 19vw;
-    position: absolute;
-    top: 300px;
-    width: 1288px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 19vw;
+  position: absolute;
+  top: 300px;
+  width: 1288px;
 }
 
 .desktop .text-58 {
-    letter-spacing: -3.00px;
-    line-height: 100px;
-    margin-left: 17.0px;
-    min-height: 165px;
-    text-align: center;
-    width: 681px;
+  letter-spacing: -3.00px;
+  line-height: 100px;
+  margin-left: -2rem;
+  min-height: 165px;
+  text-align: center;
+  width: 681px;
 }
 
 .desktop .span1 {
-    color: var(--white);
-    font-family: var(--font-family-montserrat);
-    font-weight: 300;
-    font-size: 44px;
-    letter-spacing: -0.58px;
-    line-height: 61.3px;
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-weight: 300;
+  font-size: 44px;
+  letter-spacing: -0.58px;
+  line-height: 61.3px;
 }
 
 .desktop .line-14 {
-    height: 1px;
-    margin-left: 5.0px;
-    margin-top: 41px;
+  height: 1px;
+    margin-left: -3vw;
+    margin-top: 1.5vw;
     width: 213px;
 }
 
 .desktop .text-57 {
-    letter-spacing: 0;
-    line-height: 43px;
-    margin-right: 2.0px;
-    margin-top: 45px;
-    min-height: 145px;
-    text-align: center;
-    width: 1286px;
+  letter-spacing: 0;
+  line-height: 43px;
+  margin-right: 5.5rem;
+  margin-top: 45px;
+  min-height: 145px;
+  text-align: center;
+  width: 1286px;
+  margin-bottom: 2rem;
 }
-
+/* 
 .desktop .group-2 {
-    align-items: flex-start;
-    display: flex;
-    height: 78px;
-    left: 43vw;
-    position: absolute;
-    top: 800px;
+  align-items: flex-start;
+  display: flex;
+  height: 78px;
+  left: 43vw;
+  position: absolute;
+  top: 800px;
+} */
+.desktop .group-70 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: center;
+  width: 20rem;
+  border: none;
+  border-radius: 5px;
+  background-color: #ffffff;
+  outline: none;
+height: 4rem;
+margin-left: -2rem;
 }
 
 .desktop .overlap-group10-2 {
-    align-items: flex-end;
-    background-color: var(--white);
-    border-radius: 5.65px;
-    display: flex;
-    height: 78px;
-    justify-content: flex-end;
-    min-width: 306px;
-    padding: 22.5px 66px;
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 5.65px;
+  display: flex;
+  height: 78px;
+  justify-content: flex-end;
+  /* min-width: 20vw; */
+  padding: 22.5px 66px;
+  /* margin-top: 3rem; */
+  top: 2rem;
 }
 
-.desktop .know-more {
-    color: var(--glossy-grape);
-    font-family: var(--font-family-montserrat);
-    font-size: 24px;
-    font-weight: 700;
-    letter-spacing: 0;
-    line-height: 30.7px;
-    min-height: 31px;
-    min-width: 171px;
-    text-align: center;
-    white-space: nowrap;
+.desktop .group-70 h1 {
+  color: var(--glossy-grape);
+  font-family: var(--font-family-montserrat);
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 30.7px;
+  min-height: 31px;
+  min-width: 171px;
+  text-align: center;
+  white-space: nowrap;
+  padding-top: 1rem;
 }
 
 .desktop .group-1 {
-    align-items: center;
-    display: flex;
-    height: 78px;
-    left: 144px;
-    position: absolute;
-    top: 69px;
+  align-items: center;
+  display: flex;
+  height: 78px;
+  left: 144px;
+  position: absolute;
+  top: 69px;
 }
 
 .desktop .x1200px-iaest-epng2-1-1 {
-    align-self: flex-start;
-    height: 78px;
-    margin-top: -0.11px;
-    object-fit: cover;
-    width: 203px;
+  align-self: flex-start;
+  height: 78px;
+  margin-top: -0.11px;
+  object-fit: cover;
+  width: 203px;
 }
 
 .desktop .place {
-    letter-spacing: 0;
-    margin-left: 715px;
-    margin-top: 3.22px;
-    min-height: 25px;
-    min-width: 56px;
+  letter-spacing: 0;
+  margin-left: 715px;
+  margin-top: 3.22px;
+  min-height: 25px;
+  min-width: 56px;
 }
 
-.desktop .offer {
-    /* margin-left: auto;
+.desktop .offer{
+  /* margin-left: auto;
   margin-right: auto;
   width: fit-content; */
-    position: absolute;
-    left: 6vw;
+  position: absolute;
+  
 }
 
 .desktop .incoming {
-    letter-spacing: 0;
-    margin-left: 44px;
-    margin-top: 3.22px;
-    min-height: 25px;
-    min-width: 93px;
+  letter-spacing: 0;
+  margin-left: 44px;
+  margin-top: 3.22px;
+  min-height: 25px;
+  min-width: 93px;
 }
 
 .desktop .outgoing {
-    letter-spacing: 0;
-    margin-left: 44px;
-    margin-top: 3.22px;
-    min-height: 25px;
-    min-width: 98px;
+  letter-spacing: 0;
+  margin-left: 44px;
+  margin-top: 3.22px;
+  min-height: 25px;
+  min-width: 98px;
 }
 
 .desktop .member {
-    letter-spacing: 0;
-    margin-left: 45px;
-    margin-top: 3.22px;
-    min-height: 25px;
-    min-width: 78px;
+  letter-spacing: 0;
+  margin-left: 45px;
+  margin-top: 3.22px;
+  min-height: 25px;
+  min-width: 78px;
 }
 
 .desktop .corporate {
-    letter-spacing: 0;
-    margin-left: 44px;
-    margin-top: 3.22px;
-    min-height: 25px;
-    min-width: 112px;
+  letter-spacing: 0;
+  margin-left: 44px;
+  margin-top: 3.22px;
+  min-height: 25px;
+  min-width: 112px;
 }
 
 .desktop .team {
-    letter-spacing: 0;
-    margin-left: 45px;
-    margin-top: 3.22px;
-    min-height: 25px;
-    min-width: 52px;
+  letter-spacing: 0;
+  margin-left: 45px;
+  margin-top: 3.22px;
+  min-height: 25px;
+  min-width: 52px;
 }
 
 .desktop .payment {
-    height: 41px;
-    left: 478px;
-    position: absolute;
-    top: 5166px;
-    width: 322px;
+  height: 41px;
+  left: 478px;
+  position: absolute;
+  top: 5166px;
+  width: 322px;
 }
 
 .desktop .overlap-group5 {
-    border-radius: 8px;
-    height: 109px;
-    left: 481px;
-    position: absolute;
-    top: 6237px;
-    width: 1050px;
+  border-radius: 8px;
+  height: 109px;
+  left: 481px;
+  position: absolute;
+  top: 6237px;
+  width: 1050px;
 }
 
 .desktop .text-30 {
-    color: var(--eerie-black);
-    font-family: var(--font-family-nunito);
-    font-size: 23.5px;
-    font-weight: 600;
-    left: 39px;
-    letter-spacing: 0;
-    line-height: 33.9px;
-    position: absolute;
-    top: 21px;
-    width: 974px;
+  color: var(--eerie-black);
+  font-family: var(--font-family-nunito);
+  font-size: 23.5px;
+  font-weight: 600;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: 33.9px;
+  position: absolute;
+  top: 21px;
+  width: 974px;
 }
 
 .desktop .rectangle-63 {
-    border-radius: 8px;
-    height: 109px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 1050px;
+  border-radius: 8px;
+  height: 109px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1050px;
 }
 
 .desktop .verification {
-    height: 41px;
-    left: 480px;
-    position: absolute;
-    top: 5621px;
-    width: 501px;
+  height: 41px;
+  left: 480px;
+  position: absolute;
+  top: 5621px;
+  width: 501px;
 }
 
 .desktop .confirmation {
-    height: 41px;
-    left: 476px;
-    position: absolute;
-    top: 6465px;
-    width: 541px;
+  height: 41px;
+  left: 476px;
+  position: absolute;
+  top: 6465px;
+  width: 541px;
 }
 
 .desktop .instation-membership {
-    height: 79px;
-    left: 500px;
-    position: absolute;
-    top: 3496px;
-    width: 918px;
+  height: 79px;
+  left: 500px;
+  position: absolute;
+  top: 3496px;
+  width: 918px;
 }
 
 .desktop .outstation-membership {
-    height: 79px;
-    left: 454px;
-    position: absolute;
-    top: 4744px;
-    width: 996px;
+  height: 79px;
+  left: 454px;
+  position: absolute;
+  top: 4744px;
+  width: 996px;
 }
 
 .desktop .text-31 {
-    left: 325px;
-    letter-spacing: 0;
-    line-height: 42.3px;
-    position: absolute;
-    text-align: center;
-    top: 3684px;
-    width: 1272px;
+  left: 325px;
+  letter-spacing: 0;
+  line-height: 42.3px;
+  position: absolute;
+  text-align: center;
+  top: 3684px;
+  width: 1272px;
 }
 
 .desktop .text-32 {
-    left: 294px;
-    letter-spacing: 0;
-    line-height: 42.3px;
-    position: absolute;
-    text-align: center;
-    top: 4923px;
-    width: 1317px;
+  left: 294px;
+  letter-spacing: 0;
+  line-height: 42.3px;
+  position: absolute;
+  text-align: center;
+  top: 4923px;
+  width: 1317px;
 }
 
 .desktop .overlap-group6 {
-    align-items: center;
-    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/610f8ab2d6e20479a213c9a4/releases/610f8dbf8f220af1df24259b/img/rectangle-70@2x.svg);
-    background-size: 100% 100%;
-    display: flex;
-    flex-direction: column;
-    left: 1155px;
-    min-height: 336px;
-    padding: 53.1px 77.7px;
-    position: absolute;
-    top: 5194px;
-    width: 487px;
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/610f8ab2d6e20479a213c9a4/releases/610f8dbf8f220af1df24259b/img/rectangle-70@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  left: 1155px;
+  min-height: 336px;
+  padding: 53.1px 77.7px;
+  position: absolute;
+  top: 5194px;
+  width: 487px;
 }
 
 .desktop .membership-fee {
-    color: var(--gravel);
-    font-family: var(--font-family-montserrat);
-    font-size: 33.2px;
-    font-weight: 600;
-    letter-spacing: 0;
-    line-height: 48.1px;
-    margin-left: 1.0px;
-    min-height: 47px;
-    white-space: nowrap;
-    width: 310px;
+  color: var(--gravel);
+  font-family: var(--font-family-montserrat);
+  font-size: 33.2px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 48.1px;
+  margin-left: 1.0px;
+  min-height: 47px;
+  white-space: nowrap;
+  width: 310px;
 }
 
 .desktop .group-33 {
-    align-items: center;
-    display: flex;
-    height: 35px;
-    margin-left: 2.6px;
-    margin-top: 11px;
-    min-width: 134px;
+  align-items: center;
+  display: flex;
+  height: 35px;
+  margin-left: 2.6px;
+  margin-top: 11px;
+  min-width: 134px;
 }
 
 .desktop .price {
-    color: var(--gravel);
-    font-family: var(--font-family-nunito);
-    font-size: 12.6px;
-    font-weight: 600;
-    height: 10px;
-    letter-spacing: 0;
-    line-height: 34.7px;
-    margin-top: 11.63px;
-    white-space: nowrap;
-    width: 26px;
+  color: var(--gravel);
+  font-family: var(--font-family-nunito);
+  font-size: 12.6px;
+  font-weight: 600;
+  height: 10px;
+  letter-spacing: 0;
+  line-height: 34.7px;
+  margin-top: 11.63px;
+  white-space: nowrap;
+  width: 26px;
 }
 
 .desktop .text-36 {
-    color: var(--gravel);
-    font-family: var(--font-family-nunito);
-    font-size: 31.6px;
-    letter-spacing: 0;
-    line-height: 34.7px;
-    min-height: 35px;
-    white-space: nowrap;
-    width: 105px;
+  color: var(--gravel);
+  font-family: var(--font-family-nunito);
+  font-size: 31.6px;
+  letter-spacing: 0;
+  line-height: 34.7px;
+  min-height: 35px;
+  white-space: nowrap;
+  width: 105px;
 }
 
 .desktop .line-16 {
-    height: 1px;
-    margin-top: 19px;
-    width: 81px;
+  height: 1px;
+  margin-top: 19px;
+  width: 81px;
 }
 
 .desktop .group-34 {
-    align-items: center;
-    align-self: flex-end;
-    display: flex;
-    flex-direction: column;
-    margin-top: 18px;
-    min-height: 93px;
-    width: 327px;
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 18px;
+  min-height: 93px;
+  width: 327px;
 }
 
 .desktop .mode-of-payment {
-    color: var(--gravel);
-    font-family: var(--font-family-montserrat);
-    font-size: 25px;
-    font-weight: 500;
-    height: 30px;
-    letter-spacing: 0;
-    line-height: 30.5px;
-    margin-right: 2.25px;
-    white-space: nowrap;
-    width: 244px;
+  color: var(--gravel);
+  font-family: var(--font-family-montserrat);
+  font-size: 25px;
+  font-weight: 500;
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 30.5px;
+  margin-right: 2.25px;
+  white-space: nowrap;
+  width: 244px;
 }
 
 .desktop .text-37 {
-    color: var(--gravel-2);
-    font-family: var(--font-family-montserrat);
-    font-size: 16.2px;
-    letter-spacing: 0;
-    line-height: 27.0px;
-    margin-right: 2.0px;
-    margin-top: 10px;
-    min-height: 53px;
-    text-align: center;
-    width: 325px;
+  color: var(--gravel-2);
+  font-family: var(--font-family-montserrat);
+  font-size: 16.2px;
+  letter-spacing: 0;
+  line-height: 27.0px;
+  margin-right: 2.0px;
+  margin-top: 10px;
+  min-height: 53px;
+  text-align: center;
+  width: 325px;
 }
 
 .desktop .overlap-group8 {
-    border-radius: 8px;
-    height: 98px;
-    left: 325px;
-    position: absolute;
-    top: 4468px;
-    width: 1270px;
+  border-radius: 8px;
+  height: 98px;
+  left: 325px;
+  position: absolute;
+  top: 4468px;
+  width: 1270px;
 }
 
 .desktop .text-33 {
-    left: 79px;
-    letter-spacing: 0;
-    line-height: 33.9px;
-    position: absolute;
-    text-align: center;
-    top: 32px;
-    white-space: nowrap;
+  left: 12rem;
+  letter-spacing: 0;
+  line-height: 33.9px;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+  white-space: nowrap;
 }
 
 .desktop .span1-1 {
-    color: var(--eerie-black-3);
-    font-family: var(--font-family-nunito);
-    font-size: 30px;
-    font-weight: 700;
+  color: var(--eerie-black-3);
+  font-family: var(--font-family-nunito);
+  font-size: 30px;
+  font-weight: 700;
 }
 
 .desktop .span2 {
-    color: var(--eerie-black-3);
-    font-family: var(--font-family-nunito);
-    font-size: 30px;
-    font-weight: 600;
+  color: var(--eerie-black-3);
+  font-family: var(--font-family-nunito);
+  font-size: 23.5px;
+  font-weight: 600;
 }
 
 .desktop .rectangle-90 {
-    border-radius: 8px;
-    height: 98px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 1270px;
+  border-radius: 8px;
+  height: 98px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1270px;
 }
 
 .desktop .overlap-group2 {
-    align-items: flex-start;
-    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/610f8ab2d6e20479a213c9a4/releases/610f8dbf8f220af1df24259b/img/ellipse-1@2x.svg);
-    background-size: 100% 100%;
-    display: flex;
-    height: 90px;
-    left: 333px;
-    min-width: 90px;
-    padding: 29px 28px;
-    position: absolute;
-    top: 5146px;
+  align-items: flex-start;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/610f8ab2d6e20479a213c9a4/releases/610f8dbf8f220af1df24259b/img/ellipse-1@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 90px;
+  left: 333px;
+  min-width: 90px;
+  padding: 29px 28px;
+  position: absolute;
+  top: 5146px;
 }
 
 .desktop .number-3 {
-    letter-spacing: 0;
-    line-height: 30.5px;
-    min-height: 31px;
-    white-space: nowrap;
+  letter-spacing: 0;
+  line-height: 30.5px;
+  min-height: 31px;
+  white-space: nowrap;
 }
 
 .desktop .text-34 {
-    left: 478px;
-    letter-spacing: 0;
-    line-height: 35px;
-    position: absolute;
-    top: 5306px;
-    width: 547px;
+  left: 478px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 5306px;
+  width: 547px;
 }
 
 .desktop .text-35 {
-    color: var(--eerie-black);
-    font-family: var(--font-family-nunito);
-    font-size: 36px;
-    font-weight: 600;
-    left: 477px;
-    letter-spacing: 0;
-    line-height: 45px;
-    position: absolute;
-    top: 5254px;
-    white-space: nowrap;
+  color: var(--eerie-black);
+  font-family: var(--font-family-nunito);
+  font-size: 36px;
+  font-weight: 600;
+  left: 477px;
+  letter-spacing: 0;
+  line-height: 45px;
+  position: absolute;
+  top: 5254px;
+  white-space: nowrap;
 }
 
 .desktop .text-38 {
-    left: 478px;
-    letter-spacing: 0;
-    line-height: 37px;
-    position: absolute;
-    top: 5709px;
-    width: 993px;
+  left: 478px;
+  letter-spacing: 0;
+  line-height: 37px;
+  position: absolute;
+  top: 5709px;
+  width: 993px;
 }
 
 .desktop .span1-2 {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .desktop .text-39 {
-    left: 477px;
-    letter-spacing: 0;
-    line-height: 37px;
-    position: absolute;
-    top: 6553px;
-    width: 966px;
+  left: 477px;
+  letter-spacing: 0;
+  line-height: 37px;
+  position: absolute;
+  top: 6553px;
+  width: 966px;
 }
 
 .desktop .line-17 {
-    height: 1px;
-    left: 835px;
-    position: absolute;
-    top: 4878px;
-    width: 228px;
+  height: 1px;
+  left: 835px;
+  position: absolute;
+  top: 4878px;
+  width: 228px;
 }
 
 .desktop .line-18 {
-    height: 1px;
-    left: 843px;
-    position: absolute;
-    top: 3638px;
-    width: 228px;
+  height: 1px;
+  left: 843px;
+  position: absolute;
+  top: 3638px;
+  width: 228px;
 }
 
 .desktop .group-37 {
-    align-items: flex-start;
-    display: flex;
-    height: 479px;
-    left: 323px;
-    position: absolute;
-    top: 3903px;
+  align-items: flex-start;
+  display: flex;
+  height: 479px;
+  left: 323px;
+  position: absolute;
+  top: 3903px;
 }
 
 .desktop .flex-col-2 {
-    align-items: flex-start;
-    align-self: flex-end;
-    display: flex;
-    flex-direction: column;
-    min-height: 459px;
-    width: 520px;
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 459px;
+  width: 520px;
 }
 
 .desktop .any-doubts {
-    color: var(--eerie-black);
-    font-family: var(--font-family-montserrat);
-    font-size: 54px;
-    font-weight: 600;
-    letter-spacing: 0;
-    line-height: 38px;
-    min-height: 38px;
-    min-width: 352px;
-    text-align: center;
-    white-space: nowrap;
+  color: var(--eerie-black);
+  font-family: var(--font-family-montserrat);
+  font-size: 54px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 38px;
+  min-height: 38px;
+  min-width: 352px;
+  text-align: center;
+  white-space: nowrap;
 }
 
 .desktop .group-25 {
-    align-items: flex-start;
-    display: flex;
-    flex-direction: column;
-    margin-top: 47px;
-    min-height: 374px;
-    padding: 0 0.0px;
-    width: 520px;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 47px;
+  min-height: 374px;
+  padding: 0 0.0px;
+  width: 520px;
 }
 
 .desktop .text-44 {
-    letter-spacing: 0;
-    line-height: 45.0px;
-    margin-left: 1.96px;
-    min-height: 45px;
-    white-space: nowrap;
+  letter-spacing: 0;
+  line-height: 45.0px;
+  margin-left: 1.96px;
+  min-height: 45px;
+  white-space: nowrap;
 }
 
 .desktop .text-42 {
-    color: var(--eerie-black);
-    font-family: var(--font-family-nunito);
-    font-size: 21.5px;
-    letter-spacing: 0;
-    line-height: 32.3px;
-    margin-left: 1.96px;
-    margin-top: 14px;
-    min-height: 162px;
-    width: 501px;
+  color: var(--eerie-black);
+  font-family: var(--font-family-nunito);
+  font-size: 21.5px;
+  letter-spacing: 0;
+  line-height: 32.3px;
+  margin-left: 1.96px;
+  margin-top: 14px;
+  min-height: 162px;
+  width: 501px;
 }
 
 .desktop .timings {
-    letter-spacing: 0;
-    line-height: 45.0px;
-    margin-top: 29px;
-    min-height: 45px;
-    white-space: nowrap;
+  letter-spacing: 0;
+  line-height: 45.0px;
+  margin-top: 29px;
+  min-height: 45px;
+  white-space: nowrap;
 }
 
 .desktop .text-43 {
-    color: var(--eerie-black);
-    font-family: var(--font-family-nunito);
-    font-size: 20.6px;
-    letter-spacing: 0;
-    line-height: 32.3px;
-    margin-top: 13px;
-    min-height: 65px;
-    width: 514px;
+  color: var(--eerie-black);
+  font-family: var(--font-family-nunito);
+  font-size: 20.6px;
+  letter-spacing: 0;
+  line-height: 32.3px;
+  margin-top: 13px;
+  min-height: 65px;
+  width: 514px;
 }
 
 .desktop .group-30 {
-    align-items: flex-start;
-    display: flex;
-    height: 477px;
-    margin-left: 165px;
-    min-width: 589px;
+  align-items: flex-start;
+  display: flex;
+  height: 477px;
+  margin-left: 165px;
+  min-width: 589px;
 }
 
 .desktop .overlap-group10-3 {
-    align-items: center;
-    background-image: url(https://anima-uploads.s3.amazonaws.com/projects/610f8ab2d6e20479a213c9a4/releases/610f8dbf8f220af1df24259b/img/rectangle-60@1x.svg);
-    background-size: 100% 100%;
-    display: flex;
-    flex-direction: column;
-    margin-left: -30px;
-    margin-top: -23.99px;
-    min-height: 537px;
-    padding: 71.9px 107.2px;
-    width: 645px;
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/610f8ab2d6e20479a213c9a4/releases/610f8dbf8f220af1df24259b/img/rectangle-60@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-left: -30px;
+  margin-top: -2.5rem;
+  min-height: 537px;
+  padding: 71.9px 107.2px;
+  width: 645px;
 }
 
 .desktop .membership-fee-1 {
-    color: var(--gravel);
-    font-family: var(--font-family-montserrat);
-    font-size: 46.7px;
-    font-weight: 600;
-    letter-spacing: 0;
-    line-height: 67.6px;
-    margin-right: 0;
-    min-height: 68px;
-    white-space: nowrap;
-    width: 407px;
+  color: var(--gravel);
+  font-family: var(--font-family-montserrat);
+  font-size: 46.7px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 67.6px;
+  margin-right: 0;
+  min-height: 68px;
+  white-space: nowrap;
+  width: 407px;
 }
 
 .desktop .text-41 {
-    letter-spacing: 0;
-    line-height: 30.6px;
-    margin-right: 1.23px;
-    margin-top: 6px;
-    min-height: 31px;
-    text-align: center;
-    white-space: nowrap;
-    width: 328px;
+  letter-spacing: 0;
+  line-height: 30.6px;
+  margin-right: 1.23px;
+  margin-top: 6px;
+  min-height: 31px;
+  text-align: center;
+  white-space: nowrap;
+  width: 328px;
 }
 
 .desktop .span2-1 {
-    color: var(--black);
-    font-family: var(--font-family-montserrat);
-    font-size: 21.9px;
+  color: var(--black);
+  font-family: var(--font-family-montserrat);
+  font-size: 21.9px;
 }
 
 .desktop .group-23 {
-    align-items: flex-start;
-    align-self: flex-end;
-    display: flex;
-    height: 203px;
-    margin-top: 50px;
-    min-width: 428px;
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 203px;
+  margin-top: 50px;
+  min-width: 428px;
 }
 
 .desktop .flex-col-3 {
-    align-items: flex-start;
-    display: flex;
-    flex-direction: column;
-    min-height: 203px;
-    width: 132px;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 203px;
+  width: 132px;
 }
 
 .desktop .group-20 {
-    align-items: flex-start;
-    display: flex;
-    margin-left: 0;
-    min-width: 132px;
+  align-items: flex-start;
+  display: flex;
+  margin-left: 0;
+  min-width: 132px;
 }
 
 .desktop .overlap-group1 {
-    height: 57px;
-    position: relative;
-    width: 130px;
+  height: 57px;
+  position: relative;
+  width: 130px;
 }
 
 .desktop .number {
-    left: 21px;
-    letter-spacing: 0;
-    line-height: 48.8px;
-    position: absolute;
-    top: 8px;
-    white-space: nowrap;
-    width: 108px;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: 48.8px;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+  width: 108px;
 }
 
 .desktop .rs {
-    height: 49px;
-    left: 0;
-    letter-spacing: 0;
-    line-height: 48.8px;
-    position: absolute;
-    top: 0;
-    white-space: nowrap;
-    width: 23px;
+  height: 49px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 48.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 23px;
 }
 
 .desktop .group-21 {
-    align-items: flex-end;
-    display: flex;
-    margin-top: 16px;
-    min-width: 132px;
+  align-items: flex-end;
+  display: flex;
+  margin-top: 16px;
+  min-width: 132px;
 }
 
 .desktop .overlap-group12 {
-    height: 57px;
-    margin-bottom: 0;
-    position: relative;
-    width: 130px;
+  height: 57px;
+  margin-bottom: 0;
+  position: relative;
+  width: 130px;
 }
 
 .desktop .rs-1 {
-    height: 49px;
-    left: 0;
-    letter-spacing: 0;
-    line-height: 48.8px;
-    position: absolute;
-    top: 0;
-    white-space: nowrap;
-    width: 23px;
+  height: 49px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 48.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 23px;
 }
 
 .desktop .group-22 {
-    align-items: flex-start;
-    display: flex;
-    margin-top: 16px;
-    min-width: 132px;
+  align-items: flex-start;
+  display: flex;
+  margin-top: 16px;
+  min-width: 132px;
 }
 
 .desktop .rs-2 {
-    height: 49px;
-    left: 0;
-    letter-spacing: 0;
-    line-height: 48.8px;
-    position: absolute;
-    top: 0;
-    white-space: nowrap;
-    width: 23px;
+  height: 49px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 48.8px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 23px;
 }
 
 .desktop .flex-col-4 {
-    align-items: flex-start;
-    align-self: center;
-    display: flex;
-    flex-direction: column;
-    margin-left: 19px;
-    margin-top: 3.69px;
-    min-height: 179px;
-    width: 272px;
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 19px;
+  margin-top: 3.69px;
+  min-height: 179px;
+  width: 272px;
 }
 
 .desktop .text-40 {
-    height: 37px;
-    letter-spacing: 0;
-    line-height: 36.9px;
-    white-space: nowrap;
+  height: 37px;
+  letter-spacing: 0;
+  line-height: 36.9px;
+  white-space: nowrap;
 }
 
 .desktop .for {
-    height: 37px;
-    letter-spacing: 0;
-    line-height: 36.9px;
-    margin-top: 34px;
-    white-space: nowrap;
+  height: 37px;
+  letter-spacing: 0;
+  line-height: 36.9px;
+  margin-top: 34px;
+  white-space: nowrap;
 }
 
 .desktop .overlap-group4 {
-    height: 271px;
-    left: 147px;
-    position: absolute;
-    top: 1540px;
-    width: 668px;
+  height: 271px;
+  left: 10rem;
+  position: absolute;
+  top: 1540px;
+  width: 668px;
 }
 
 .desktop .text-45 {
-    color: var(--eerie-black);
-    font-family: var(--font-family-nunito);
-    font-size: 25px;
-    left: 0;
-    letter-spacing: 0;
-    line-height: 42.8px;
-    position: absolute;
-    top: 0;
-    width: 668px;
+  color: var(--eerie-black);
+  font-family: var(--font-family-nunito);
+  font-size: 25px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 42.8px;
+  position: absolute;
+  top: 0;
+  width: 668px;
 }
 
 .desktop .rectangle-35 {
-    height: 85px;
-    left: 0;
-    position: absolute;
-    top: 186px;
-    width: 293px;
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 186px;
+  width: 293px;
 }
 
 .desktop .visit-the-portal {
-    color: var(--white);
-    font-family: var(--font-family-montserrat);
-    font-size: 31px;
-    font-weight: 700;
-    left: 26px;
-    letter-spacing: 0;
-    line-height: 40.0px;
-    position: absolute;
-    text-align: center;
-    top: 208px;
-    white-space: nowrap;
+  color: var(--white);
+  font-family: var(--font-family-montserrat);
+  font-size: 31px;
+  font-weight: 700;
+  left: 26px;
+  letter-spacing: 0;
+  line-height: 40.0px;
+  position: absolute;
+  text-align: center;
+  top: 208px;
+  white-space: nowrap;
 }
 
 .desktop .applying-for-an-r-on-the-portal {
-    height: 229px;
-    left: 212px;
-    position: absolute;
-    top: 1254px;
-    width: 511px;
+  height: 229px;
+  margin-left: 10rem;
+  position: absolute;
+  top: 1254px;
+  width: 511px;
 }
 
 .desktop .overlap-group1-1 {
-    height: 1092px;
-    left: 881px;
-    position: absolute;
-    top: 1204px;
-    width: 921px;
+  height: 1092px;
+  margin-left: 47vw;
+  position: absolute;
+  top: 1204px;
+  width: 921px;
 }
 
 .desktop .rectangle-100 {
-    height: 282px;
-    left: 0;
-    position: absolute;
-    top: 0;
-    width: 921px;
+  height: 282px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 921px;
 }
 
 .desktop .rectangle-101 {
-    height: 282px;
-    left: 0;
-    position: absolute;
-    top: 270px;
-    width: 921px;
+  height: 282px;
+  left: 0;
+  position: absolute;
+  top: 270px;
+  width: 921px;
 }
 
 .desktop .rectangle-102 {
-    height: 282px;
-    left: 0;
-    position: absolute;
-    top: 540px;
-    width: 921px;
+  height: 282px;
+  left: 0;
+  position: absolute;
+  top: 540px;
+  width: 921px;
 }
 
 .desktop .rectangle-103 {
-    height: 282px;
-    left: 0;
-    position: absolute;
-    top: 810px;
-    width: 921px;
+  height: 282px;
+  left: 0;
+  position: absolute;
+  top: 810px;
+  width: 921px;
 }
 
 .desktop .step-1 {
-    left: 259px;
-    letter-spacing: -0.47px;
-    line-height: 38.8px;
-    position: absolute;
-    top: 38px;
-    white-space: nowrap;
-    width: 84px;
+  left: 259px;
+  letter-spacing: -0.47px;
+  line-height: 38.8px;
+  position: absolute;
+  top: 38px;
+  white-space: nowrap;
+  width: 84px;
 }
 
 .desktop .step-2 {
-    left: 259px;
-    letter-spacing: -0.47px;
-    line-height: 38.8px;
-    position: absolute;
-    top: 318px;
-    white-space: nowrap;
-    width: 84px;
+  left: 259px;
+  letter-spacing: -0.47px;
+  line-height: 38.8px;
+  position: absolute;
+  top: 318px;
+  white-space: nowrap;
+  width: 84px;
 }
 
 .desktop .step-3 {
-    left: 259px;
-    letter-spacing: -0.47px;
-    line-height: 38.8px;
-    position: absolute;
-    top: 581px;
-    white-space: nowrap;
-    width: 84px;
+  left: 259px;
+  letter-spacing: -0.47px;
+  line-height: 38.8px;
+  position: absolute;
+  top: 581px;
+  white-space: nowrap;
+  width: 84px;
 }
 
 .desktop .step-4 {
-    left: 259px;
-    letter-spacing: -0.47px;
-    line-height: 38.8px;
-    position: absolute;
-    top: 853px;
-    white-space: nowrap;
-    width: 84px;
+  left: 259px;
+  letter-spacing: -0.47px;
+  line-height: 38.8px;
+  position: absolute;
+  top: 853px;
+  white-space: nowrap;
+  width: 84px;
 }
 
 .desktop .become-a-member {
-    left: 259px;
-    letter-spacing: -0.71px;
-    line-height: 38.8px;
-    position: absolute;
-    top: 83px;
-    white-space: nowrap;
-    width: 297px;
+  left: 259px;
+  letter-spacing: -0.71px;
+  line-height: 38.8px;
+  position: absolute;
+  top: 83px;
+  white-space: nowrap;
+  width: 297px;
 }
 
 .desktop .create-an-account {
-    left: 259px;
-    letter-spacing: -0.71px;
-    line-height: 38.8px;
-    position: absolute;
-    top: 362px;
-    white-space: nowrap;
-    width: 294px;
+  left: 259px;
+  letter-spacing: -0.71px;
+  line-height: 38.8px;
+  position: absolute;
+  top: 362px;
+  white-space: nowrap;
+  width: 294px;
 }
 
 .desktop .build-your-resume {
-    left: 259px;
-    letter-spacing: -0.71px;
-    line-height: 38.8px;
-    position: absolute;
-    top: 625px;
-    white-space: nowrap;
-    width: 288px;
+  left: 259px;
+  letter-spacing: -0.71px;
+  line-height: 38.8px;
+  position: absolute;
+  top: 625px;
+  white-space: nowrap;
+  width: 288px;
 }
 
 .desktop .apply-for-an-offer {
-    left: 259px;
-    letter-spacing: -0.71px;
-    line-height: 38.8px;
-    position: absolute;
-    top: 897px;
-    white-space: nowrap;
-    width: 281px;
+  left: 259px;
+  letter-spacing: -0.71px;
+  line-height: 38.8px;
+  position: absolute;
+  top: 897px;
+  white-space: nowrap;
+  width: 281px;
 }
 
 .desktop .text-46 {
-    left: 259px;
-    letter-spacing: 0;
-    line-height: 30.4px;
-    position: absolute;
-    top: 136px;
-    width: 611px;
+  left: 259px;
+  letter-spacing: 0;
+  line-height: 30.4px;
+  position: absolute;
+  top: 136px;
+  width: 611px;
 }
 
 .desktop .text-47 {
-    left: 259px;
-    letter-spacing: 0;
-    line-height: 30.4px;
-    position: absolute;
-    top: 416px;
-    width: 611px;
+  left: 259px;
+  letter-spacing: 0;
+  line-height: 30.4px;
+  position: absolute;
+  top: 416px;
+  width: 611px;
 }
 
 .desktop .text-48 {
-    left: 259px;
-    letter-spacing: 0;
-    line-height: 30.4px;
-    position: absolute;
-    top: 679px;
-    width: 611px;
+  left: 259px;
+  letter-spacing: 0;
+  line-height: 30.4px;
+  position: absolute;
+  top: 679px;
+  width: 611px;
 }
 
 .desktop .text-49 {
-    left: 259px;
-    letter-spacing: 0;
-    line-height: 30.4px;
-    position: absolute;
-    top: 951px;
-    width: 611px;
+  left: 259px;
+  letter-spacing: 0;
+  line-height: 30.4px;
+  position: absolute;
+  top: 951px;
+  width: 611px;
 }
 
 .desktop .image-1-1 {
-    height: 1px;
-    left: 146px;
-    object-fit: cover;
-    position: absolute;
-    top: 136px;
-    width: 1px;
+  height: 1px;
+  left: 146px;
+  object-fit: cover;
+  position: absolute;
+  top: 136px;
+  width: 1px;
 }
 
 .desktop .image-2-1 {
-    height: 1px;
-    left: 146px;
-    object-fit: cover;
-    position: absolute;
-    top: 407px;
-    width: 1px;
+  height: 1px;
+  left: 146px;
+  object-fit: cover;
+  position: absolute;
+  top: 407px;
+  width: 1px;
 }
 
 .desktop .image-3-1 {
-    height: 1px;
-    left: 132px;
-    object-fit: cover;
-    position: absolute;
-    top: 670px;
-    width: 1px;
+  height: 1px;
+  left: 132px;
+  object-fit: cover;
+  position: absolute;
+  top: 670px;
+  width: 1px;
 }
 
 .desktop .image-4 {
-    height: 1px;
-    left: 145px;
-    object-fit: cover;
-    position: absolute;
-    top: 953px;
-    width: 1px;
+  height: 1px;
+  left: 145px;
+  object-fit: cover;
+  position: absolute;
+  top: 953px;
+  width: 1px;
 }
 
 .desktop .image-14 {
-    height: 156px;
-    left: 79px;
-    position: absolute;
-    top: 59px;
-    width: 148px;
+  height: 156px;
+  left: 79px;
+  position: absolute;
+  top: 59px;
+  width: 148px;
 }
 
 .desktop .image-15 {
-    height: 152px;
-    left: 76px;
-    position: absolute;
-    top: 331px;
-    width: 165px;
+  height: 152px;
+  left: 76px;
+  position: absolute;
+  top: 331px;
+  width: 165px;
 }
 
 .desktop .image-16 {
-    height: 169px;
-    left: 79px;
-    position: absolute;
-    top: 592px;
-    width: 134px;
+  height: 169px;
+  left: 79px;
+  position: absolute;
+  top: 592px;
+  width: 134px;
 }
 
 .desktop .image-17 {
-    height: 153px;
-    left: 65px;
-    position: absolute;
-    top: 870px;
-    width: 153px;
+  height: 153px;
+  left: 65px;
+  position: absolute;
+  top: 870px;
+  width: 153px;
 }
 
 .ipad {
