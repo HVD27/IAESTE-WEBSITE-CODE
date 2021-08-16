@@ -5576,6 +5576,7 @@ border-radius: 2rem;
     height: 447px;
     position: relative;
     width: 100vw;
+    background-color: var(--black-haze);
 }
 
 .phone .rectangle-120 {
@@ -5624,7 +5625,8 @@ border-radius: 2rem;
     font-weight: 600;
     /* left: 82px; */
     letter-spacing: 0;
-    position: absolute;
+    /* position: absolute; */
+    position: relative;
     top: 30px;
     /* text-align: center; */
 }
@@ -5754,6 +5756,7 @@ border-radius: 2rem;
     object-fit: cover;
     width: 26px;
 }
+
 
 .tablet {
     align-items: center;
