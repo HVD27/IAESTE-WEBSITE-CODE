@@ -1912,7 +1912,7 @@ margin-left: -2rem;
 
 .desktop .line-18 {
   height: 1px;
-  margin-left: 45vw;
+  margin-left: 46vw;
   position: absolute;
   top: 3638px;
   width: 228px;
@@ -5705,7 +5705,7 @@ border-radius: 2rem;
 
 .phone .phone-1 {
     letter-spacing: -0.20px;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     min-height: 14px;
     width: 92px;
 }
