@@ -1252,11 +1252,14 @@
 }
 
 .desktop .x1200px-iaest-epng2-1 {
-  height: 174px;
+  height: auto;
   object-fit: cover;
-  width: 454px;
+  /* width: 454px; */
+  margin-left: -2rem;
 }
-
+.desktop .menu-list{ 
+    margin-left: 41vw;
+}
 .desktop .flex-row-3 {
   align-items: flex-end;
   align-self: flex-end;
@@ -4291,7 +4294,7 @@ border-radius: 2rem;
     backdrop-filter: blur(50px) brightness(60%);
     /* background-color: var(--white-2); */
     /* background-color: rgba(255,255,255,0.6); */
-    background-image: linear-gradient(rgb(101, 44, 144), rgb(145, 38, 143), rgb(217, 27, 91));
+    background-image: linear-gradient(rgba(101, 44, 144, 0.8), rgba(145, 38, 143, 0.8), rgba(217, 27, 91, 0.8));
     border-radius: 15px;
     height: 300px;
     left: 20vw;
@@ -5904,6 +5907,7 @@ border-radius: 2rem;
     margin-top: -0.18px;
     object-fit: cover;
     width: 180px;
+    margin-left: -1.5rem;
 }
 
 .tablet .place {
