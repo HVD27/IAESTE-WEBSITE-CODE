@@ -7253,6 +7253,7 @@ border-radius: 2rem;
 }
 
 .tablet .rectangle-grey .row {
+    margin-bottom: 3vw;
   width: 100%;
 }
 
@@ -7268,6 +7269,7 @@ border-radius: 2rem;
 
 .tablet .rectangle-grey .col {
   flex-grow: 0;
+  margin-right: 3vw;
 }
 
 .tablet .rectangle-grey .text-contact {
@@ -7294,8 +7296,8 @@ border-radius: 2rem;
   display: flex;
   align-items: center;
   flex-direction: column;
-  justify-content: space-between;
-  padding-bottom: 50rem;
+  justify-content: space-around;
+  /* padding-bottom: 50rem; */
 }
 .tablet .group-85 {
     /* align-items: flex-start; */
@@ -7433,7 +7435,7 @@ border-radius: 2rem;
 
 .tablet .directly-call-us {
     letter-spacing: 3.12px;
-    margin-top: 44px;
+    /* margin-top: 44px; */
     min-height: 22px;
     width: 195px;
 }
@@ -7447,7 +7449,7 @@ border-radius: 2rem;
 
 .tablet .leave-us-a-mail {
     letter-spacing: 3.12px;
-    margin-top: 49px;
+    /* margin-top: 49px; */
     min-height: 22px;
     width: 182px;
 }
