@@ -4291,7 +4291,7 @@ border-radius: 2rem;
     -webkit-filter: blur(50px) brightness(60%);
     filter: blur(50px) brightness(60%);
     -webkit-backdrop-filter: blur(50px) brightness(60%);
-    backdrop-filter: blur(50px) brightness(60%);
+    /* backdrop-filter: blur(50px) brightness(60%); */
     /* background-color: var(--white-2); */
     /* background-color: rgba(255,255,255,0.6); */
     background-image: linear-gradient(rgba(101, 44, 144, 0.8), rgba(145, 38, 143, 0.8), rgba(217, 27, 91, 0.8));
