@@ -5691,7 +5691,7 @@ border-radius: 2rem;
     letter-spacing: 0;
     line-height: 15.7px;
     margin-left: 0.48px;
-    margin-top: 9px;
+    /* margin-top: 9px; */
     min-height: 63px;
     width: 162px;
 }
@@ -5705,7 +5705,7 @@ border-radius: 2rem;
 
 .phone .phone-1 {
     letter-spacing: -0.20px;
-    margin-top: 5px;
+    margin-bottom: 20px;
     min-height: 14px;
     width: 92px;
 }
