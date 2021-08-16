@@ -5109,7 +5109,7 @@ border-radius: 2rem;
     align-items: flex-start;
     border-radius: 3px;
     display: flex;
-    height: 36px;
+    height: 22px;
     min-width: 272px;
     padding: 5px 18px;
 }
@@ -5118,20 +5118,20 @@ border-radius: 2rem;
     letter-spacing: 0;
     min-height: 24px;
     text-align: center;
-    width: 236px;
+    width: 265;
 }
 
 .phone .span1-1 {
     color: var(--eerie-black-3);
     font-family: var(--font-family-nunito);
-    font-size: 8.5px;
+    font-size: 7px;
     font-weight: 700;
 }
 
 .phone .span2-1 {
     color: var(--eerie-black-3);
     font-family: var(--font-family-nunito);
-    font-size: 8.5px;
+    font-size: 7px;
     font-weight: 600;
 }
 
@@ -5173,6 +5173,7 @@ border-radius: 2rem;
     flex-direction: column;
     min-height: 517px;
     width: 32px;
+    margin-top: -8vh;
 }
 
 .phone .group-6 {
@@ -5236,6 +5237,7 @@ border-radius: 2rem;
     flex-direction: column;
     margin-bottom: 4.0px;
     margin-left: 12px;
+    margin-top: -8vh;
     min-height: 493px;
     width: 236px;
 }
@@ -5345,14 +5347,15 @@ border-radius: 2rem;
 .phone .verification {
     height: 11px;
     margin-left: 3px;
-    margin-top: 27px;
+    margin-bottom: 10px;
+    margin-top: 10px;
     width: 128px;
 }
 
 .phone .text-107 {
     letter-spacing: 0;
     line-height: 18px;
-    margin-top: 14px;
+    margin-bottom: 14px;
     min-height: 72px;
     width: 213px;
 }
@@ -5368,7 +5371,7 @@ border-radius: 2rem;
     letter-spacing: 0;
     line-height: 12px;
     margin-left: 1px;
-    margin-top: 9px;
+    /* margin-top: 9px; */
     min-height: 132px;
     width: 200px;
 }
@@ -5378,7 +5381,7 @@ border-radius: 2rem;
     border-radius: 2px;
     display: flex;
     height: 36px;
-    margin-top: 19px;
+    margin-top: 10px;
     min-width: 236px;
     padding: 7px 13px;
 }
@@ -5409,6 +5412,7 @@ border-radius: 2rem;
     display: flex;
     margin-right: 75.5px;
     min-width: 184px;
+    margin-top: -4vh;
 }
 
 .phone .confirmation {
@@ -5433,7 +5437,7 @@ border-radius: 2rem;
 .phone .purple-bg {
     /* background-image: url(https://anima-uploads.s3.amazonaws.com/projects/610f8ab2d6e20479a213c9a4/releases/610fb61265b6109eec62ddd5/img/rectangle-105-1@1x.svg); */
     width: auto;
-    margin-top: 42px;
+    /* margin-top: 42px; */
 }
 
 .phone .overlap-group2 {
@@ -5455,7 +5459,8 @@ border-radius: 2rem;
     font-weight: 700;
     letter-spacing: 0;
     line-height: 34.1px;
-    margin-left: 3.0px;
+    margin-left: auto;
+    margin-right: auto;
     min-height: 35px;
     min-width: 199px;
     text-align: center;
@@ -5465,7 +5470,8 @@ border-radius: 2rem;
 .phone .text-100 {
     letter-spacing: 0;
     line-height: 16px;
-    margin-left: 2.0px;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 12px;
     min-height: 82px;
     text-align: center;
@@ -5479,6 +5485,7 @@ border-radius: 2rem;
     justify-content: flex-end;
     margin-top: 27px;
     min-width: 286px;
+    margin-right: -5vw;
 }
 
 .phone .overlap-group8-5 {
@@ -5502,7 +5509,7 @@ border-radius: 2rem;
 
 .phone .agc {
     letter-spacing: 0;
-    margin-left: 0;
+    margin-left: -0.5vw;
     min-height: 24px;
 }
 
@@ -5529,15 +5536,15 @@ border-radius: 2rem;
 
 .phone .cobe {
     letter-spacing: 0;
-    margin-left: 0;
-    margin-top: 31px;
+    margin-left: -0.5vw;
+    /* margin-top: 31px; */
     min-height: 24px;
 }
 
 .phone .fcfs {
     letter-spacing: 0;
-    margin-left: 1.0px;
-    margin-top: 31px;
+    margin-left: -0.5vw;
+    /* margin-top: 31px; */
     min-height: 24px;
 }
 
