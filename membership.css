@@ -4339,15 +4339,22 @@ border-radius: 2rem;
     width: 291px;
 }
 
+.phone .nav-phone{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 2vh 19vw;
+}
+
 .phone .ionmenu {
     align-items: center;
     display: flex;
     flex-direction: column;
     height: 36px;
-    left: 85vw;
-    padding: 9.7px 0;
-    position: absolute;
-    top: 38px;
+    /* left: 85vw; */
+    /* padding: 9.7px 0; */
+    /* position: absolute; */
+    /* top: 38px; */
     width: 36px;
 }
 
@@ -4367,12 +4374,12 @@ border-radius: 2rem;
 }
 
 .phone .x1200px-iaest-epng2-1 {
-    height: 38px;
-    margin-left: 19vw;
+    height: auto;
+    /* margin-left: 19vw; */
     object-fit: cover;
-    position: absolute;
-    top: 37px;
-    width: 100px;
+    /* position: absolute; */
+    z-index: 10;
+    width: 150px;
 }
 
 .phone .group-82 {
@@ -5725,8 +5732,8 @@ border-radius: 2rem;
 .phone .ionmenu .burger { 
     border:none; 
     background: none;
-    margin-top: -1.3rem;
-    margin-right: 19vw;
+    /* margin-top: -1.3rem; */
+    /* margin-right: 19vw; */
     
 }
 .phone .ionmenu .burger:hover{ 
