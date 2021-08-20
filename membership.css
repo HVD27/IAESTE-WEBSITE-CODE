@@ -4228,6 +4228,7 @@ border-radius: 2rem;
     background-color: var(--white);
     display: flex;
     flex-direction: column;
+    overflow: hidden;
     /* height: 3940px; */
     width: 100vw;
 }
