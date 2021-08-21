@@ -4362,6 +4362,8 @@ border-radius: 2rem;
     margin-top: -15px;
 }
 
+
+
 .phone .vector-1 {
     height: 2px;
     width: 26px;
@@ -5727,7 +5729,8 @@ border-radius: 2rem;
 }
 .phone .ionmenu .menu-list { 
     background:linear-gradient(rgba(101, 44, 144, 0.8), rgba(145, 38, 143, 0.8));
-    min-width: 10vw;
+    /* min-width: 10vw; */
+    left: 10;
 }
 .phone .ionmenu .burger { 
     border:none; 
@@ -5742,6 +5745,14 @@ border-radius: 2rem;
 .phone .ionmenu .burger:active{ 
     border: none;
 }
+
+.phone .active{
+    text-decoration: none;
+    /* background:linear-gradient(rgba(101, 44, 144)); */
+    background-color: rgba(101, 44, 144);
+}
+
+
 .phone .queriesiaestein {
     letter-spacing: -0.20px;
     margin-top: 6px;
