@@ -3043,6 +3043,15 @@ border-radius: 2rem;
     width: 58px;
 }
 
+.ipad .box-1{
+    transition: transform 0.5s;
+}
+
+.ipad .box-1:hover{
+    transform: scale(1.03) translateY(-4px);
+}
+
+
 .ipad .overlap-group2 {
     align-items: flex-end;
     background-image: url(https://anima-uploads.s3.amazonaws.com/projects/610f8ab2d6e20479a213c9a4/releases/610fb61265b6109eec62ddd5/img/rectangle-115-2@1x.svg);
