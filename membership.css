@@ -5847,6 +5847,14 @@ border-radius: 2rem;
     margin-right: 6.7vw;
 }
 
+.tablet .sticky{
+    background-color: rgba(101, 44, 144, 0.8);
+    width: 100vw;
+    margin-left: 0;
+    height: 10vh;
+    padding: 0 10vw;
+}
+
 .tablet .nav-item{
     transition: transform 0.5s;
 }
