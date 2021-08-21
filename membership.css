@@ -3043,11 +3043,11 @@ border-radius: 2rem;
     width: 58px;
 }
 
-.ipad .box-1{
+.box-1{
     transition: transform 0.5s;
 }
 
-.ipad .box-1:hover{
+.box-1:hover{
     transform: scale(1.03) translateY(-4px);
 }
 
@@ -3301,6 +3301,7 @@ border-radius: 2rem;
     color: var(--black);
     font-family: var(--font-family-montserrat);
     font-size: 7.7px;
+    font-weight: 600;
 }
 
 .ipad .flex-row-1 {
@@ -4032,6 +4033,7 @@ border-radius: 2rem;
 
 .ipad .rectangle-grey .row {
     width: 100%;
+    margin-left: 10vw;
 }
 
 .ipad .rectangle-grey .row-center {
@@ -4073,6 +4075,13 @@ border-radius: 2rem;
     align-items: center;
     flex-direction: column;
     justify-content: space-between;
+}
+
+.ipad .contact-content{
+    width: 633px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
 }
 
 .ipad .group-85 {
@@ -5059,6 +5068,7 @@ border-radius: 2rem;
     color: var(--black);
     font-family: var(--font-family-montserrat);
     font-size: 13px;
+    font-weight: 600;
 }
 
 .phone .any-doubts {
