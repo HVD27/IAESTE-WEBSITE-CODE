@@ -4229,7 +4229,8 @@ border-radius: 2rem;
     display: flex;
     flex-direction: column;
     overflow: hidden;
-    /* height: 3940px; */
+    /* height: auto; */
+    /* margin-bottom: 0; */
     width: 100vw;
 }
 
@@ -5251,7 +5252,7 @@ border-radius: 2rem;
     flex-direction: column;
     margin-bottom: 4.0px;
     margin-left: 12px;
-    margin-top: -8vh;
+    margin-top: -9vh;
     min-height: 493px;
     width: 236px;
 }
@@ -5305,7 +5306,7 @@ border-radius: 2rem;
     font-size: 14px;
     left: 13px;
     letter-spacing: 0;
-    line-height: 34.7px;
+    line-height: 36.5px;
     position: absolute;
     top: 0;
     white-space: nowrap;
@@ -5395,7 +5396,7 @@ border-radius: 2rem;
     border-radius: 2px;
     display: flex;
     height: 36px;
-    margin-top: 10px;
+    /* margin-top: 10px; */
     min-width: 236px;
     padding: 7px 13px;
 }
@@ -5417,7 +5418,7 @@ border-radius: 2rem;
     align-items: center;
     display: flex;
     flex-direction: column;
-    min-height: 1227px;
+    /* min-height: 1227px; */
     width: 100vw;
 }
 
@@ -5588,6 +5589,14 @@ border-radius: 2rem;
     position: relative;
     width: 100vw;
     background-color: var(--black-haze);
+}
+
+.phone .text-icon{
+    transition: transform 0.5s;
+}
+
+.phone .text-icon:hover{
+    transform: scale(1.3);
 }
 
 .phone .rectangle-120 {
