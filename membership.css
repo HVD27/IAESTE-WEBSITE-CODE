@@ -5614,7 +5614,7 @@ border-radius: 2rem;
     transition: transform 0.5s;
 }
 
-.phone .text-icon:hover{
+.text-icon:hover{
     transform: scale(1.3);
 }
 
@@ -5845,6 +5845,14 @@ border-radius: 2rem;
 .tablet .navbar-expand-lg {
     margin-left: 6.7vw;
     margin-right: 6.7vw;
+}
+
+.tablet .nav-item{
+    transition: transform 0.5s;
+}
+
+.tablet .nav-item:hover{
+    transform: scale(1.1);
 }
 
 .tablet .group-84 {
@@ -7344,10 +7352,25 @@ border-radius: 2rem;
 color: #000;;
 font-size: 16px;
 text-align: left;
+margin-left: 1vw;
+
 /* padding-right: 0.8rem; */
 
-/* transition: transform 0.5s; */
+transition: transform 0.5s;
 }
+
+.tablet .contact-content{
+    width: 1060px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.tablet .rectangle-grey .row {
+    width: 100%;
+    margin-left: 10vw;
+}
+
 
 .tablet .rectangle-grey .circle{
 background-color: #000000;
