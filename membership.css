@@ -5859,14 +5859,40 @@ border-radius: 2rem;
     margin-top: 0;
 }
 
-.tablet .nav-item{
+/* .tablet .nav-item{
     transition: text-decoration 0.5s ease-in-out;
 }
 
 .tablet .nav-item:hover{
     text-decoration: underline;
     text-underline-offset: 0.5rem;
-} 
+}  */
+
+/* Underline styles */
+.tablet .nav-item a {
+    display: block;
+    position: relative;
+    padding: 0.2em 0;
+  }
+  
+  /* Fade in */
+  .tablet .un-active a::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 0.1em;
+    background-color: white;
+    opacity: 0;
+    transition: opacity 300ms, transform 300ms;
+  }
+  
+  .tablet .un-active a:hover::after,
+  .tablet .un-active a:focus::after {
+    opacity: 1;
+    transform: translate3d(0, 0.2em, 0);
+  }
 
 
 
