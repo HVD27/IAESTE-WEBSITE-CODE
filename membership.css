@@ -2174,7 +2174,7 @@ margin-left: -2rem;
 
 .desktop .overlap-group4 {
   height: 271px;
-  left: 10rem;
+  left: 8vw;
   position: absolute;
   top: 1540px;
   width: 668px;
@@ -2216,15 +2216,15 @@ margin-left: -2rem;
 
 .desktop .applying-for-an-r-on-the-portal {
   height: 229px;
-  margin-left: 10rem;
+  /* margin-left: 10rem; */
   position: absolute;
-  top: 1254px;
+  top: -300;
   width: 511px;
 }
 
 .desktop .overlap-group1-1 {
   height: 1092px;
-  margin-left: 47vw;
+  margin-left: 54vw;
   position: absolute;
   top: 1204px;
   width: 921px;
